@@ -6,6 +6,9 @@
 - Nguyễn Thị Ngọc Yến – MSSV: B2504866
 - Trần Chí Bình – MSSV: B2509651
 
+## Báo cáo thực hành
+
+[📄 Xem file báo cáo Word](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/thienthienthien777/BuoiTH7_Nhom05/main/LinkBaiTap_TH7_Nhom05.docx)
 ---
 
 ## Mục tiêu
